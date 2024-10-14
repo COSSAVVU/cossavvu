@@ -1,4 +1,4 @@
-# 🎓 GitHub Student Developer Pack: Unlock Your Potential!
+# 🎓 GitHub Student Developer Pack: Unlock Endless Possibilities!
 
 ## Why You Should Get the GitHub Student Developer Pack
 
