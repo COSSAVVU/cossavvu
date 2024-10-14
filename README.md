@@ -1,4 +1,4 @@
-# 🎓 GitHub Student Developer Pack: Unlock Endless Possibilities!
+# 🎓 GitHub Student Developer Pack for CoSSA: Unlocking Endless Possibilities!
 
 ## Why You Should Get the GitHub Student Developer Pack
 
