@@ -1,4 +1,40 @@
+<div style="width: 100%;" align="center">
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/cossavvu?tab=followers">
+        <img src="https://komarev.com/ghpvc/?username=cossavvu&label=Guests&color=0e75b6&style=for-the-badge" />
+</a>
+</div>
+
+# Contact Us
+
+<p aligned="center">
+    <a href="https://www.linkedin.com/company/cossavvu/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="64" width="64" alt="Click to connect on LinkedIn"/>
+    </a>
+    <a href="https://x.com/cossavvu/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="64" width="64" alt="X"/>
+    </a>
+    <a href="https://www.instagram.com/cossavvu/">
+        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="Instagram" />
+    </a>
+    <a href="https://www.tiktok.com/@cossavvu/">
+        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="TikTok" />
+    </a>
+    <a href="https://www.youtube.com/@CoSSAVVU/">
+        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="YouTube" />
+    </a>
+        
+</p>
+🖱️Click on the icon.
+        
+# Github Analytics:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cossavvu&show_icons=true&theme=transparent" alt="CoSSA VVU's GitHub stats"/>
+    <img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cossavvu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="cossavvu" />
+</p>
+
 # 🎓 GitHub Student Developer Pack for CoSSA: Unlocking Endless Possibilities!
+
 
 ## Why You Should Get the GitHub Student Developer Pack
 
@@ -25,6 +61,7 @@ The GitHub Student Developer Pack offers an incredible array of tools and resour
         <p>Thanks to your student email, You'll get these premium IDEs for free</p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="92" width="92" alt="CLion"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="92" width="92" alt="Webstorm"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="92" width="92" alt="PyCharm"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="92" width="92" alt="IntelliJ"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" height="92" width="92" alt="GoLand"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" height="92" width="92" alt="Rider"/>
@@ -47,6 +84,9 @@ The GitHub Student Developer Pack offers an incredible array of tools and resour
 - **Codédex**: Verified students receive 6 months of Codédex Club, a premium membership for free.
 - **SCrimba**: Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses.
 - **MongoDB**: $50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.
+- **Educative**: Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any subscription they pick!
+- **Microsoft Visual Studio Code Dev Essentials**: Visual Studio Community, Visual Studio Community for Mac, access to Pluralsight training, 1 free year of Azure services with $200 credit for the 1st month and more.
+- **SymfonyCast**: Master Symfony and PHP with video tutorials and code challenges. Free 3-month subscription for students.
 
 ### 🔒 Security Tools
 - **Snyk**: Find and fix vulnerabilities in your code.
