@@ -3,9 +3,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/cossavvu?tab=followers">
         <img src="https://komarev.com/ghpvc/?username=cossavvu&label=Guests&color=0e75b6&style=for-the-badge" />
 </a>
-</div>
 
-# Contact Us
+
+# Get in Touch With us through:
 
 <p aligned="center">
     <a href="https://www.linkedin.com/company/cossavvu/">
@@ -18,12 +18,11 @@
         <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="Instagram" />
     </a>
     <a href="https://www.tiktok.com/@cossavvu/">
-        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="TikTok" />
+        <img src='https://img.icons8.com/?size=100&id=118638&format=png&color=000000' height="64" width="64" alt="TikTok" />
     </a>
     <a href="https://www.youtube.com/@CoSSAVVU/">
-        <img src='https://img.icons8.com/?size=100&id=32309&format=png&color=000000' height="64" width="64" alt="YouTube" />
-    </a>
-        
+        <img src='https://img.icons8.com/?size=100&id=19318&format=png&color=000000' height="64" width="64" alt="YouTube" />
+    </a> 
 </p>
 🖱️Click on the icon.
         
@@ -32,6 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=cossavvu&show_icons=true&theme=transparent" alt="CoSSA VVU's GitHub stats"/>
     <img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cossavvu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="cossavvu" />
 </p>
+</div>
 
 # 🎓 GitHub Student Developer Pack for CoSSA: Unlocking Endless Possibilities!
 
