@@ -84,7 +84,6 @@ The GitHub Student Developer Pack offers an incredible array of tools and resour
 - **Codédex**: Verified students receive 6 months of Codédex Club, a premium membership for free.
 - **SCrimba**: Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses.
 - **MongoDB**: $50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.
-- **Educative**: Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any subscription they pick!
 - **Microsoft Visual Studio Code Dev Essentials**: Visual Studio Community, Visual Studio Community for Mac, access to Pluralsight training, 1 free year of Azure services with $200 credit for the 1st month and more.
 - **SymfonyCast**: Master Symfony and PHP with video tutorials and code challenges. Free 3-month subscription for students.
 
