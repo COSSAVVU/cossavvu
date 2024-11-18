@@ -4,6 +4,14 @@
         <img src="https://komarev.com/ghpvc/?username=cossavvu&label=Guests&color=0e75b6&style=for-the-badge" />
 </a>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=abd202&center=true&vCenter=true&random=false&width=600&lines=Computer+Science;Information+Technology;Business+Information+Systems;Valley+View+University" alt="Typing SVG" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/cossavvu/cossavvu/output/snake.svg" alt="Snake animation" />
+
 
 # Get in Touch With us through:
 
