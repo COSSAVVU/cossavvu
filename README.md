@@ -37,7 +37,28 @@
 # Github Analytics:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cossavvu&show_icons=true&theme=transparent" alt="CoSSA VVU's GitHub stats"/>
-    <img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cossavvu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="cossavvu" />
-</p>
+    </p>
 </div>
 
+        
+# CoSSA Active Projects
+
+        
+- [ ] CoSSA Database
+- [ ] CoSSA Website
+
+<br>
+        
+# CoSSA Learns Series
+<div align="center">
+
+<a href="https://github.com/COSSAVVU/cossa_learns_python/tree/main">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="92" width="92" alt="Python"/>
+</a>
+
+<a href="https://github.com/COSSAVVU/cossa_learns_javascript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="92" width="92"/>
+</a>
+
+</div>
+🖱️Click on the icon.
