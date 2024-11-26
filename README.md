@@ -52,10 +52,9 @@
 # CoSSA Learns Series
 <div align="center">
 
-<a href="https://github.com/COSSAVVU/cossa_learns_python/tree/main">
+<a href="https://github.com/COSSAVVU/cossa_learns_python">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="92" width="92" alt="Python"/>
 </a>
-
 <a href="https://github.com/COSSAVVU/cossa_learns_javascript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="92" width="92"/>
 </a>
