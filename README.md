@@ -37,10 +37,13 @@
 # Github Analytics:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cossavvu&show_icons=true&theme=transparent" alt="CoSSA VVU's GitHub stats"/>
+<img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cossavvu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="cossavvu" />
     </p>
 </div>
 
-        
+
+![trophy](https://github-profile-trophy.vercel.app/?username=cossavvu&column=3&margin-w=15&margin-h=15)
+
 # CoSSA Active Projects
 
         
