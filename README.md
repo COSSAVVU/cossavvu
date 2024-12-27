@@ -4,6 +4,8 @@
         <img src="https://komarev.com/ghpvc/?username=cossavvu&label=Guests&color=0e75b6&style=for-the-badge" />
 </a>
 
+[![](https://visitcount.itsvg.in/api?id=cossavvu&icon=0&color=1)](https://visitcount.itsvg.in)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=abd202&center=true&vCenter=true&random=false&width=600&lines=Computer+Science;Information+Technology;Business+Information+Systems;Valley+View+University" alt="Typing SVG" />
@@ -49,6 +51,10 @@
         
 - [ ] CoSSA Database
 - [ ] CoSSA Website
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=cossavvu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <br>
         
