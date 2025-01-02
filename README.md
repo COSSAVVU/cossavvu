@@ -37,12 +37,14 @@
 🖱️Click on the icon.
         
 # Github Analytics:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cossavvu&show_icons=true&theme=transparent" alt="CoSSA VVU's GitHub stats"/>
-<img  style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cossavvu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="cossavvu" />
-    </p>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=COSSAVVU&show_icons=true&bg_color=00000000&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=COSSAVVU&langs_count=8&card_width=320&show_icons=true&bg_color=00000000" />
+</a>
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=COSSAVVU&&theme=transparent)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cossavvu&column=3&margin-w=15&margin-h=15)
 
@@ -53,8 +55,9 @@
 - [ ] CoSSA Website
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cossavvu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=cossavvu&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
+[![project HELLO WORLD](https://github-readme-stats.vercel.app/api/pin/?username=COSSAVVU&repo=project-hello-world&show_icons=true&bg_color=00000000)](https://github.com/COSSAVVU/project-hello-world)
 
 <br>
         
@@ -69,4 +72,10 @@
 </a>
 
 </div>
+
+[![CoSSA Learns Javascript](https://github-readme-stats.vercel.app/api/pin/?username=COSSAVVU&repo=cossa_learns_javascript&show_icons=true&bg_color=00000000)](https://github.com/COSSAVVU/cossa_learns_javascript)
+[![CoSSA Learns  Python](https://github-readme-stats.vercel.app/api/pin/?username=COSSAVVU&repo=cossa_learns_python&show_icons=true&bg_color=00000000)](https://github.com/COSSAVVU/cossa_learns_python)
+
+
+
 🖱️Click on the icon.
